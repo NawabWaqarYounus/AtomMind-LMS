@@ -1,6 +1,6 @@
 # AtomMind LMS - The Adaptive Neural Learning Platform
 
-AtomMind LMS is a premium, AI-driven learning management system engineered for high-performance education. Built with Next.js 15, TypeScript, and Supabase, it leverages real-time cognitive mapping to create personalized learning paths that evolve with every user interaction.
+AtomMind LMS is a premium, AI-driven learning management system engineered for high-performance education. Built with Next.js 15, TypeScript, and Supabase, it leverages real-time cognitive mapping to create personalized learning paths that evolve with every user interaction. Developed for the BU Hackathon.
 
 ## 🚀 Key Features
 
